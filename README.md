@@ -21,12 +21,6 @@ A sleek, modern, and high-performance **Expense Tracker Application** built with
 * **Charts:** fl_chart
 * **Excel Engine:** syncfusion_flutter_xlsio
 
-## 📸 Screenshots
-
-| Dashboard | Statistics | Add Transaction |
-|---|---|---|
-| [Add Image Link] | [Add Image Link] | [Add Image Link] |
-
 ## 🛠️ Installation
 
 1.  **Clone the repository:**
